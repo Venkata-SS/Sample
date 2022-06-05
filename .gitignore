@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/TransactionProcessor/.vs/TransactionProcessor
+/TransactionProcessor/FileProcessor/bin/Debug/net6.0
+/TransactionProcessor/FileProcessor/obj
+/TransactionProcessor/FileProcessor.Tests/bin
+/TransactionProcessor/FileProcessor.Tests/obj
+/TransactionProcessor/FileProcessorConsole/bin/Debug/net6.0
+/TransactionProcessor/FileProcessorConsole/obj
+/TransactionProcessor/TransactionProcessor.Repository/bin/Debug/net6.0
+/TransactionProcessor/TransactionProcessor.Repository/obj
+/TransactionProcessor/TransactionProcessor.Repository.Tests/bin
+/TransactionProcessor/TransactionProcessor.Repository.Tests/obj
