@@ -14,3 +14,10 @@
 /TransactionProcessor/TransactionProcessor.Repository/obj
 /TransactionProcessor/TransactionProcessor.Repository.Tests/bin
 /TransactionProcessor/TransactionProcessor.Repository.Tests/obj
+/XmlReportGenerator/.vs/XmlReportGenerator
+/XmlReportGenerator/XmlReportGenerator/bin/Debug/net6.0
+/XmlReportGenerator/XmlReportGenerator/obj
+/XmlReportGenerator/XmlReportGenerator.Console/bin/Debug/net6.0
+/XmlReportGenerator/XmlReportGenerator.Console/obj
+/XmlReportGenerator/XmlReportGenerator.Tests/bin/Debug/net6.0
+/XmlReportGenerator/XmlReportGenerator.Tests/obj
